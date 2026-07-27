@@ -1,0 +1,168 @@
+{
+  "nodes": [
+    {
+      "id": "center-ch05-法规与标准",
+      "type": "text",
+      "text": "# 机电工程相关法规与标准\n\n[[00-目录|← 返回目录]]",
+      "x": 300,
+      "y": 0,
+      "width": 280,
+      "height": 100,
+      "color": "#2563eb"
+    },
+    {
+      "id": "sec-ch05-法规与标准-5.1",
+      "type": "text",
+      "text": "## 5.1 计量",
+      "x": 100,
+      "y": 150,
+      "width": 180,
+      "height": 50,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lec-ch05-法规与标准-第64讲-计量的规定",
+      "type": "text",
+      "text": "# [[第64讲-计量的规定|第64讲-计量的规定]]",
+      "x": 100,
+      "y": 230,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "sec-ch05-法规与标准-5.2",
+      "type": "text",
+      "text": "## 5.2 建设用电",
+      "x": 100,
+      "y": 350,
+      "width": 180,
+      "height": 50,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lec-ch05-法规与标准-第65讲-建设用电及施工的规定",
+      "type": "text",
+      "text": "# [[第65讲-建设用电及施工的规定|第65讲-建设用电及施工的规定]]",
+      "x": 100,
+      "y": 430,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "sec-ch05-法规与标准-5.3",
+      "type": "text",
+      "text": "## 5.3 特种设备",
+      "x": 100,
+      "y": 550,
+      "width": 180,
+      "height": 50,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lec-ch05-法规与标准-第66讲-特种设备的规定",
+      "type": "text",
+      "text": "# [[第66讲-特种设备的规定|第66讲-特种设备的规定]]",
+      "x": 100,
+      "y": 630,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "sec-ch05-法规与标准-6",
+      "type": "text",
+      "text": "## 6 相关标准",
+      "x": 100,
+      "y": 750,
+      "width": 180,
+      "height": 50,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lec-ch05-法规与标准-第67讲-相关标准",
+      "type": "text",
+      "text": "# [[第67讲-相关标准|第67讲-相关标准]]",
+      "x": 100,
+      "y": 830,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0001",
+      "fromNode": "center-ch05-法规与标准",
+      "fromSide": "bottom",
+      "toNode": "sec-ch05-法规与标准-5.1",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": "第64-64讲"
+    },
+    {
+      "id": "e0002",
+      "fromNode": "sec-ch05-法规与标准-5.1",
+      "fromSide": "bottom",
+      "toNode": "lec-ch05-法规与标准-第64讲-计量的规定",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0003",
+      "fromNode": "center-ch05-法规与标准",
+      "fromSide": "bottom",
+      "toNode": "sec-ch05-法规与标准-5.2",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": "第65-65讲"
+    },
+    {
+      "id": "e0004",
+      "fromNode": "sec-ch05-法规与标准-5.2",
+      "fromSide": "bottom",
+      "toNode": "lec-ch05-法规与标准-第65讲-建设用电及施工的规定",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0005",
+      "fromNode": "center-ch05-法规与标准",
+      "fromSide": "bottom",
+      "toNode": "sec-ch05-法规与标准-5.3",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": "第66-66讲"
+    },
+    {
+      "id": "e0006",
+      "fromNode": "sec-ch05-法规与标准-5.3",
+      "fromSide": "bottom",
+      "toNode": "lec-ch05-法规与标准-第66讲-特种设备的规定",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0007",
+      "fromNode": "center-ch05-法规与标准",
+      "fromSide": "bottom",
+      "toNode": "sec-ch05-法规与标准-6",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": "第67-67讲"
+    },
+    {
+      "id": "e0008",
+      "fromNode": "sec-ch05-法规与标准-6",
+      "fromSide": "bottom",
+      "toNode": "lec-ch05-法规与标准-第67讲-相关标准",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    }
+  ]
+}

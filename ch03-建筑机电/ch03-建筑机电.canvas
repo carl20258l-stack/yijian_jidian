@@ -1,0 +1,720 @@
+{
+  "nodes": [
+    {
+      "id": "center-ch03-建筑机电",
+      "type": "text",
+      "text": "# 建筑机电工程施工技术\n\n[[00-目录|← 返回目录]]",
+      "x": 300,
+      "y": 0,
+      "width": 280,
+      "height": 100,
+      "color": "#2563eb"
+    },
+    {
+      "id": "sec-ch03-建筑机电-3.1",
+      "type": "text",
+      "text": "## 3.1 给排水供暖",
+      "x": 100,
+      "y": 150,
+      "width": 180,
+      "height": 50,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第13讲-给排水供暖工程施工程序及排水管道施工技术",
+      "type": "text",
+      "text": "# [[第13讲-给排水供暖工程施工程序及排水管道施工技术|第13讲-给排水供暖工程施工程序及排...]]",
+      "x": 100,
+      "y": 230,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第14讲-建筑给水管道施工技术",
+      "type": "text",
+      "text": "# [[第14讲-建筑给水管道施工技术|第14讲-建筑给水管道施工技术]]",
+      "x": 360,
+      "y": 230,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第15讲-供暖管道施工、设备安装及系统调试检测",
+      "type": "text",
+      "text": "# [[第15讲-供暖管道施工、设备安装及系统调试检测|第15讲-供暖管道施工、设备安装及系...]]",
+      "x": 620,
+      "y": 230,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "sec-ch03-建筑机电-3.2",
+      "type": "text",
+      "text": "## 3.2 建筑电气",
+      "x": 100,
+      "y": 350,
+      "width": 180,
+      "height": 50,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第16讲-建筑电气的分部分项工程及施工程序",
+      "type": "text",
+      "text": "# [[第16讲-建筑电气的分部分项工程及施工程序|第16讲-建筑电气的分部分项工程及施...]]",
+      "x": 100,
+      "y": 430,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第17讲-变配电施工技术(1)",
+      "type": "text",
+      "text": "# [[第17讲-变配电施工技术(1)|第17讲-变配电施工技术(1)]]",
+      "x": 360,
+      "y": 430,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第18讲-变配电施工技术(2)",
+      "type": "text",
+      "text": "# [[第18讲-变配电施工技术(2)|第18讲-变配电施工技术(2)]]",
+      "x": 620,
+      "y": 430,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第19讲-供电干线和配电线路施工技术",
+      "type": "text",
+      "text": "# [[第19讲-供电干线和配电线路施工技术|第19讲-供电干线和配电线路施工技术]]",
+      "x": 880,
+      "y": 430,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第20讲-电气照明施工技术和电气动力设备安装技术",
+      "type": "text",
+      "text": "# [[第20讲-电气照明施工技术和电气动力设备安装技术|第20讲-电气照明施工技术和电气动力...]]",
+      "x": 1140,
+      "y": 430,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第21讲-建筑防雷与接地施工技术",
+      "type": "text",
+      "text": "# [[第21讲-建筑防雷与接地施工技术|第21讲-建筑防雷与接地施工技术]]",
+      "x": 1400,
+      "y": 430,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "sec-ch03-建筑机电-3.3",
+      "type": "text",
+      "text": "## 3.3 通风与空调",
+      "x": 100,
+      "y": 550,
+      "width": 180,
+      "height": 50,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第22讲-通风与空调的分部分项工程及施工程序",
+      "type": "text",
+      "text": "# [[第22讲-通风与空调的分部分项工程及施工程序|第22讲-通风与空调的分部分项工程及...]]",
+      "x": 100,
+      "y": 630,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第23讲-通风与空调风系统施工技术(1)",
+      "type": "text",
+      "text": "# [[第23讲-通风与空调风系统施工技术(1)|第23讲-通风与空调风系统施工技术(1)]]",
+      "x": 360,
+      "y": 630,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第24讲-通风与空调风系统施工技术(2)",
+      "type": "text",
+      "text": "# [[第24讲-通风与空调风系统施工技术(2)|第24讲-通风与空调风系统施工技术(2)]]",
+      "x": 620,
+      "y": 630,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第25讲-通风与空调水系统施工技术",
+      "type": "text",
+      "text": "# [[第25讲-通风与空调水系统施工技术|第25讲-通风与空调水系统施工技术]]",
+      "x": 880,
+      "y": 630,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第26讲-设备安装、系统调试检测、净化空调系统施工技术",
+      "type": "text",
+      "text": "# [[第26讲-设备安装、系统调试检测、净化空调系统施工技术|第26讲-设备安装、系统调试检测、净...]]",
+      "x": 1140,
+      "y": 630,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "sec-ch03-建筑机电-3.4",
+      "type": "text",
+      "text": "## 3.4 智能化系统",
+      "x": 100,
+      "y": 750,
+      "width": 180,
+      "height": 50,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第27讲-智能化系统的分部分项工程及施工程序",
+      "type": "text",
+      "text": "# [[第27讲-智能化系统的分部分项工程及施工程序|第27讲-智能化系统的分部分项工程及...]]",
+      "x": 100,
+      "y": 830,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第28讲-智能化系统的线缆和光缆、设备施工技术",
+      "type": "text",
+      "text": "# [[第28讲-智能化系统的线缆和光缆、设备施工技术|第28讲-智能化系统的线缆和光缆、设...]]",
+      "x": 360,
+      "y": 830,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第29讲-智能化系统的调试和检测",
+      "type": "text",
+      "text": "# [[第29讲-智能化系统的调试和检测|第29讲-智能化系统的调试和检测]]",
+      "x": 620,
+      "y": 830,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "sec-ch03-建筑机电-3.5",
+      "type": "text",
+      "text": "## 3.5 电梯",
+      "x": 100,
+      "y": 950,
+      "width": 180,
+      "height": 50,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第30讲-电梯的分部分项工程与安装验收规定",
+      "type": "text",
+      "text": "# [[第30讲-电梯的分部分项工程与安装验收规定|第30讲-电梯的分部分项工程与安装验...]]",
+      "x": 100,
+      "y": 1030,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第31讲-电梯设备安装技术",
+      "type": "text",
+      "text": "# [[第31讲-电梯设备安装技术|第31讲-电梯设备安装技术]]",
+      "x": 360,
+      "y": 1030,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第32讲-自动扶梯安装技术",
+      "type": "text",
+      "text": "# [[第32讲-自动扶梯安装技术|第32讲-自动扶梯安装技术]]",
+      "x": 620,
+      "y": 1030,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "sec-ch03-建筑机电-3.6",
+      "type": "text",
+      "text": "## 3.6 消防",
+      "x": 100,
+      "y": 1150,
+      "width": 180,
+      "height": 50,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第33讲-消防系统的分部分项工程及施工程序",
+      "type": "text",
+      "text": "# [[第33讲-消防系统的分部分项工程及施工程序|第33讲-消防系统的分部分项工程及施...]]",
+      "x": 100,
+      "y": 1230,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第34讲-消防工程施工技术要求",
+      "type": "text",
+      "text": "# [[第34讲-消防工程施工技术要求|第34讲-消防工程施工技术要求]]",
+      "x": 360,
+      "y": 1230,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    },
+    {
+      "id": "lec-ch03-建筑机电-第35讲-消防工程验收规定与实施",
+      "type": "text",
+      "text": "# [[第35讲-消防工程验收规定与实施|第35讲-消防工程验收规定与实施]]",
+      "x": 620,
+      "y": 1230,
+      "width": 240,
+      "height": 80,
+      "color": "#16a34a"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0001",
+      "fromNode": "center-ch03-建筑机电",
+      "fromSide": "bottom",
+      "toNode": "sec-ch03-建筑机电-3.1",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": "第13-15讲"
+    },
+    {
+      "id": "e0002",
+      "fromNode": "sec-ch03-建筑机电-3.1",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第13讲-给排水供暖工程施工程序及排水管道施工技术",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0003",
+      "fromNode": "sec-ch03-建筑机电-3.1",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第14讲-建筑给水管道施工技术",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0004",
+      "fromNode": "lec-ch03-建筑机电-第13讲-给排水供暖工程施工程序及排水管道施工技术",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第14讲-建筑给水管道施工技术",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0005",
+      "fromNode": "sec-ch03-建筑机电-3.1",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第15讲-供暖管道施工、设备安装及系统调试检测",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0006",
+      "fromNode": "lec-ch03-建筑机电-第14讲-建筑给水管道施工技术",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第15讲-供暖管道施工、设备安装及系统调试检测",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0007",
+      "fromNode": "center-ch03-建筑机电",
+      "fromSide": "bottom",
+      "toNode": "sec-ch03-建筑机电-3.2",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": "第16-21讲"
+    },
+    {
+      "id": "e0008",
+      "fromNode": "sec-ch03-建筑机电-3.2",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第16讲-建筑电气的分部分项工程及施工程序",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0009",
+      "fromNode": "sec-ch03-建筑机电-3.2",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第17讲-变配电施工技术(1)",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0010",
+      "fromNode": "lec-ch03-建筑机电-第16讲-建筑电气的分部分项工程及施工程序",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第17讲-变配电施工技术(1)",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0011",
+      "fromNode": "sec-ch03-建筑机电-3.2",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第18讲-变配电施工技术(2)",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0012",
+      "fromNode": "lec-ch03-建筑机电-第17讲-变配电施工技术(1)",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第18讲-变配电施工技术(2)",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0013",
+      "fromNode": "sec-ch03-建筑机电-3.2",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第19讲-供电干线和配电线路施工技术",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0014",
+      "fromNode": "lec-ch03-建筑机电-第18讲-变配电施工技术(2)",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第19讲-供电干线和配电线路施工技术",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0015",
+      "fromNode": "sec-ch03-建筑机电-3.2",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第20讲-电气照明施工技术和电气动力设备安装技术",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0016",
+      "fromNode": "lec-ch03-建筑机电-第19讲-供电干线和配电线路施工技术",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第20讲-电气照明施工技术和电气动力设备安装技术",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0017",
+      "fromNode": "sec-ch03-建筑机电-3.2",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第21讲-建筑防雷与接地施工技术",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0018",
+      "fromNode": "lec-ch03-建筑机电-第20讲-电气照明施工技术和电气动力设备安装技术",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第21讲-建筑防雷与接地施工技术",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0019",
+      "fromNode": "center-ch03-建筑机电",
+      "fromSide": "bottom",
+      "toNode": "sec-ch03-建筑机电-3.3",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": "第22-26讲"
+    },
+    {
+      "id": "e0020",
+      "fromNode": "sec-ch03-建筑机电-3.3",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第22讲-通风与空调的分部分项工程及施工程序",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0021",
+      "fromNode": "sec-ch03-建筑机电-3.3",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第23讲-通风与空调风系统施工技术(1)",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0022",
+      "fromNode": "lec-ch03-建筑机电-第22讲-通风与空调的分部分项工程及施工程序",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第23讲-通风与空调风系统施工技术(1)",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0023",
+      "fromNode": "sec-ch03-建筑机电-3.3",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第24讲-通风与空调风系统施工技术(2)",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0024",
+      "fromNode": "lec-ch03-建筑机电-第23讲-通风与空调风系统施工技术(1)",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第24讲-通风与空调风系统施工技术(2)",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0025",
+      "fromNode": "sec-ch03-建筑机电-3.3",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第25讲-通风与空调水系统施工技术",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0026",
+      "fromNode": "lec-ch03-建筑机电-第24讲-通风与空调风系统施工技术(2)",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第25讲-通风与空调水系统施工技术",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0027",
+      "fromNode": "sec-ch03-建筑机电-3.3",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第26讲-设备安装、系统调试检测、净化空调系统施工技术",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0028",
+      "fromNode": "lec-ch03-建筑机电-第25讲-通风与空调水系统施工技术",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第26讲-设备安装、系统调试检测、净化空调系统施工技术",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0029",
+      "fromNode": "center-ch03-建筑机电",
+      "fromSide": "bottom",
+      "toNode": "sec-ch03-建筑机电-3.4",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": "第27-29讲"
+    },
+    {
+      "id": "e0030",
+      "fromNode": "sec-ch03-建筑机电-3.4",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第27讲-智能化系统的分部分项工程及施工程序",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0031",
+      "fromNode": "sec-ch03-建筑机电-3.4",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第28讲-智能化系统的线缆和光缆、设备施工技术",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0032",
+      "fromNode": "lec-ch03-建筑机电-第27讲-智能化系统的分部分项工程及施工程序",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第28讲-智能化系统的线缆和光缆、设备施工技术",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0033",
+      "fromNode": "sec-ch03-建筑机电-3.4",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第29讲-智能化系统的调试和检测",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0034",
+      "fromNode": "lec-ch03-建筑机电-第28讲-智能化系统的线缆和光缆、设备施工技术",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第29讲-智能化系统的调试和检测",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0035",
+      "fromNode": "center-ch03-建筑机电",
+      "fromSide": "bottom",
+      "toNode": "sec-ch03-建筑机电-3.5",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": "第30-32讲"
+    },
+    {
+      "id": "e0036",
+      "fromNode": "sec-ch03-建筑机电-3.5",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第30讲-电梯的分部分项工程与安装验收规定",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0037",
+      "fromNode": "sec-ch03-建筑机电-3.5",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第31讲-电梯设备安装技术",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0038",
+      "fromNode": "lec-ch03-建筑机电-第30讲-电梯的分部分项工程与安装验收规定",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第31讲-电梯设备安装技术",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0039",
+      "fromNode": "sec-ch03-建筑机电-3.5",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第32讲-自动扶梯安装技术",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0040",
+      "fromNode": "lec-ch03-建筑机电-第31讲-电梯设备安装技术",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第32讲-自动扶梯安装技术",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0041",
+      "fromNode": "center-ch03-建筑机电",
+      "fromSide": "bottom",
+      "toNode": "sec-ch03-建筑机电-3.6",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": "第33-35讲"
+    },
+    {
+      "id": "e0042",
+      "fromNode": "sec-ch03-建筑机电-3.6",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第33讲-消防系统的分部分项工程及施工程序",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0043",
+      "fromNode": "sec-ch03-建筑机电-3.6",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第34讲-消防工程施工技术要求",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0044",
+      "fromNode": "lec-ch03-建筑机电-第33讲-消防系统的分部分项工程及施工程序",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第34讲-消防工程施工技术要求",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    },
+    {
+      "id": "e0045",
+      "fromNode": "sec-ch03-建筑机电-3.6",
+      "fromSide": "bottom",
+      "toNode": "lec-ch03-建筑机电-第35讲-消防工程验收规定与实施",
+      "toSide": "top",
+      "color": "#16a34a",
+      "label": ""
+    },
+    {
+      "id": "e0046",
+      "fromNode": "lec-ch03-建筑机电-第34讲-消防工程施工技术要求",
+      "fromSide": "right",
+      "toNode": "lec-ch03-建筑机电-第35讲-消防工程验收规定与实施",
+      "toSide": "left",
+      "color": "#ea580c",
+      "label": "→"
+    }
+  ]
+}

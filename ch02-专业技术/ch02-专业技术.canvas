@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"center-ch02-专业技术","type":"text","text":"# 机电工程专业技术\n\n[[00-目录|← 返回目录]]","x":300,"y":0,"width":280,"height":100,"color":"#2563eb"},
+		{"id":"sec-ch02-专业技术-2.1","type":"text","text":"## 2.1 工程测量","x":100,"y":150,"width":180,"height":50,"color":"#7c3aed"},
+		{"id":"lec-ch02-专业技术-第6讲-工程测量技术","type":"text","text":"# [[第6讲-工程测量技术|第6讲-工程测量技术]]","x":100,"y":230,"width":240,"height":80,"color":"#16a34a"},
+		{"id":"sec-ch02-专业技术-2.2","type":"text","text":"## 2.2 起重技术","x":100,"y":350,"width":180,"height":50,"color":"#7c3aed"},
+		{"id":"lec-ch02-专业技术-第7讲-起重机械的分类与选用","type":"text","text":"# [[第7讲-起重机械的分类与选用|第7讲-起重机械的分类与选用]]","x":100,"y":430,"width":240,"height":80,"color":"#16a34a"},
+		{"id":"lec-ch02-专业技术-第8讲-索吊具的分类与选用","type":"text","text":"# [[第8讲-索吊具的分类与选用|第8讲-索吊具的分类与选用]]","x":360,"y":430,"width":240,"height":80,"color":"#16a34a"},
+		{"id":"lec-ch02-专业技术-第9讲-吊装方法和吊装稳定性要求","type":"text","text":"# [[第9讲-吊装方法和吊装稳定性要求|第9讲-吊装方法和吊装稳定性要求]]","x":620,"y":430,"width":240,"height":80,"color":"#16a34a"},
+		{"id":"sec-ch02-专业技术-2.3","type":"text","text":"## 2.3 焊接技术","x":100,"y":550,"width":180,"height":50,"color":"#7c3aed"},
+		{"id":"lec-ch02-专业技术-第10讲-焊接设备和焊接材料的分类及选用","type":"text","text":"# [[第10讲-焊接设备和焊接材料的分类及选用|第10讲-焊接设备和焊接材料的分类及选用]]","x":100,"y":630,"width":240,"height":80,"color":"#16a34a"},
+		{"id":"lec-ch02-专业技术-第11讲-焊接方法和焊接工艺","type":"text","text":"# [[第11讲-焊接方法和焊接工艺|第11讲-焊接方法和焊接工艺]]","x":360,"y":630,"width":240,"height":80,"color":"#16a34a"},
+		{"id":"lec-ch02-专业技术-第12讲-焊接应力与变形、焊接质量检验","type":"text","text":"# [[第12讲-焊接应力与变形、焊接质量检验|第12讲-焊接应力与变形、焊接质量检验]]","x":620,"y":630,"width":240,"height":80,"color":"#16a34a"}
+	],
+	"edges":[
+		{"id":"e0001","fromNode":"center-ch02-专业技术","fromSide":"bottom","toNode":"sec-ch02-专业技术-2.1","toSide":"top","color":"#16a34a","label":"第6-6讲"},
+		{"id":"e0002","fromNode":"sec-ch02-专业技术-2.1","fromSide":"bottom","toNode":"lec-ch02-专业技术-第6讲-工程测量技术","toSide":"top","color":"#16a34a","label":""},
+		{"id":"e0003","fromNode":"center-ch02-专业技术","fromSide":"bottom","toNode":"sec-ch02-专业技术-2.2","toSide":"top","color":"#16a34a","label":"第7-9讲"},
+		{"id":"e0004","fromNode":"sec-ch02-专业技术-2.2","fromSide":"bottom","toNode":"lec-ch02-专业技术-第7讲-起重机械的分类与选用","toSide":"top","color":"#16a34a","label":""},
+		{"id":"e0005","fromNode":"sec-ch02-专业技术-2.2","fromSide":"bottom","toNode":"lec-ch02-专业技术-第8讲-索吊具的分类与选用","toSide":"top","color":"#16a34a","label":""},
+		{"id":"e0006","fromNode":"lec-ch02-专业技术-第7讲-起重机械的分类与选用","fromSide":"right","toNode":"lec-ch02-专业技术-第8讲-索吊具的分类与选用","toSide":"left","color":"#ea580c","label":"→"},
+		{"id":"e0007","fromNode":"sec-ch02-专业技术-2.2","fromSide":"bottom","toNode":"lec-ch02-专业技术-第9讲-吊装方法和吊装稳定性要求","toSide":"top","color":"#16a34a","label":""},
+		{"id":"e0008","fromNode":"lec-ch02-专业技术-第8讲-索吊具的分类与选用","fromSide":"right","toNode":"lec-ch02-专业技术-第9讲-吊装方法和吊装稳定性要求","toSide":"left","color":"#ea580c","label":"→"},
+		{"id":"e0009","fromNode":"center-ch02-专业技术","fromSide":"bottom","toNode":"sec-ch02-专业技术-2.3","toSide":"top","color":"#16a34a","label":"第10-12讲"},
+		{"id":"e0010","fromNode":"sec-ch02-专业技术-2.3","fromSide":"bottom","toNode":"lec-ch02-专业技术-第10讲-焊接设备和焊接材料的分类及选用","toSide":"top","color":"#16a34a","label":""},
+		{"id":"e0011","fromNode":"sec-ch02-专业技术-2.3","fromSide":"bottom","toNode":"lec-ch02-专业技术-第11讲-焊接方法和焊接工艺","toSide":"top","color":"#16a34a","label":""},
+		{"id":"e0012","fromNode":"lec-ch02-专业技术-第10讲-焊接设备和焊接材料的分类及选用","fromSide":"right","toNode":"lec-ch02-专业技术-第11讲-焊接方法和焊接工艺","toSide":"left","color":"#ea580c","label":"→"},
+		{"id":"e0013","fromNode":"sec-ch02-专业技术-2.3","fromSide":"bottom","toNode":"lec-ch02-专业技术-第12讲-焊接应力与变形、焊接质量检验","toSide":"top","color":"#16a34a","label":""},
+		{"id":"e0014","fromNode":"lec-ch02-专业技术-第11讲-焊接方法和焊接工艺","fromSide":"right","toNode":"lec-ch02-专业技术-第12讲-焊接应力与变形、焊接质量检验","toSide":"left","color":"#ea580c","label":"→"}
+	]
+}

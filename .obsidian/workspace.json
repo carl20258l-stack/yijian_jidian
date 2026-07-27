@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "c6fcb3eca2e94501",
+    "type": "split",
+    "children": [
+      {
+        "id": "5692447434160597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ee755d337ed5617",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ch06-施工管理/ch06-施工管理.canvas",
+                "viewState": {
+                  "x": 350,
+                  "y": -1118.0101141594128,
+                  "zoom": -1.8153256331661838
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ch06-施工管理"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c759abfbd515b763",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d214ee9456ea2fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202c43990f0e6cac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "726a52f556cb598f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9216a1d6b5fee4d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be44fd838d958b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6a7556e502d3fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e593221ee998c298",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ch02-专业技术/ch02-专业技术.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ch02-专业技术 的反向链接列表"
+            }
+          },
+          {
+            "id": "be652de332376abe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ch02-专业技术/ch02-专业技术.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ch02-专业技术 的出链列表"
+            }
+          },
+          {
+            "id": "64b9e01e38d5155e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "02f33c578c8c21c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "636ba70064aafac9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ch02-专业技术/ch02-专业技术.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ch02-专业技术 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "3ee755d337ed5617",
+  "lastOpenFiles": [
+    "00-目录.md",
+    "ch06-施工管理/ch06-施工管理.canvas",
+    "ch06-施工管理/第80讲-机电工程试运行及竣工验收管理.md",
+    "ch06-施工管理/第72讲-工程合同管理.md",
+    "ch04-工业机电/ch04-工业机电.canvas",
+    "ch04-工业机电/第63讲-炉窑砌筑施工技术.md",
+    "ch04-工业机电/第62讲-炼铁、炼钢、轧机、空分与制氧设备安装技术.md",
+    "ch03-建筑机电/第33讲-消防系统的分部分项工程及施工程序.md",
+    "ch02-专业技术/第6讲-工程测量技术.md",
+    "ch01-材料与设备/第4讲-通用设备的类型和性能.md",
+    "ch01-材料与设备/ch01-材料与设备.canvas",
+    "ch02-专业技术/ch02-专业技术.canvas",
+    "ch01-材料与设备/第1讲-金属材料的分类及应用(1).md",
+    "第4讲-常用工程材料的类型和应用.md",
+    "ch01-材料与设备/第5讲-专用设备电气设备的类型和性能.md"
+  ]
+}
