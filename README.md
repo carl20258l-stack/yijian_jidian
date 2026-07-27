@@ -10,7 +10,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/carl20258l-stack/yijian_jidian.git
+git clone https://github.com/qizhengle/yijian_jidian.git
 
 # 2. 用 Obsidian 打开
 #    打开 Obsidian → Open folder as vault → 选择 yijian_jidian 目录
@@ -52,4 +52,4 @@ yijian_jidian/
 
 ## 许可
 
-[Apache License 2.0](LICENSE) © 2026 carl20258l-stack
+[Apache License 2.0](LICENSE) © 2026 qizhengle
